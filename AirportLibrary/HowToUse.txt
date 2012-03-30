@@ -1,0 +1,12 @@
+﻿First make a new AirportLib object to act as your handle to the class.
+
+Next you will want to use the getData function to get the information from the web.  this takes 2 strings and returns one.  
+Each string should be 3 characters long and represtent the airport codes from and to.
+Airport codes can be found at http://www.flyontime.us/airports
+
+If there is a chance that the airport codes could be wrong you can now call the checkIfValid function.
+This takes the string responce from getData and returns a bool.  If true, you have good data.
+
+Finally, getValues will take the string from getData and will return a 4 piece string array. 
+The array will have 4 percents.  the first is on time flights.  the next is 5-20 min delay.
+next is over 20 min delays, finally are canceled flights.

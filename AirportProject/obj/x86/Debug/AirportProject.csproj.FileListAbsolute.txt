@@ -1,0 +1,11 @@
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\bin\Debug\AirportProject.exe
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\bin\Debug\AirportProject.pdb
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\AirportProject.Form1.resources
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\AirportProject.Properties.Resources.resources
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\AirportProject.exe
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\obj\x86\Debug\AirportProject.pdb
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\bin\Debug\AirportLibrary.dll
+C:\Users\office\Desktop\colin_cSharp\coffee_ex\AirportLibrary\AirportProject\bin\Debug\AirportLibrary.pdb
